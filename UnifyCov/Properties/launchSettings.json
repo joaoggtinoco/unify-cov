@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnifyCov": {
+      "commandName": "Project",
+      "commandLineArgs": "-op caminhoDoOpenCouver -tp caminhoDoEXEDaPlataformaDeTeste -dll \"C:\\Repos\\unify-cov\\BinProjetoTeste\\UnifyCov.Test.dll\" -rg caminhoDoReportGenerator"
+    }
+  }
+}

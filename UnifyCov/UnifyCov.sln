@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifyCov", "UnifyCov.csproj", "{573DEF1B-D5BD-4FF6-B60D-9C7DEE3B1D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifyCov.Test", "..\UnifyCov.Test\UnifyCov.Test.csproj", "{1A808074-6A61-4180-89F3-F2370E41990B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{573DEF1B-D5BD-4FF6-B60D-9C7DEE3B1D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573DEF1B-D5BD-4FF6-B60D-9C7DEE3B1D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573DEF1B-D5BD-4FF6-B60D-9C7DEE3B1D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573DEF1B-D5BD-4FF6-B60D-9C7DEE3B1D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A808074-6A61-4180-89F3-F2370E41990B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A808074-6A61-4180-89F3-F2370E41990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A808074-6A61-4180-89F3-F2370E41990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A808074-6A61-4180-89F3-F2370E41990B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040FCE94-962C-4FBF-8E27-C2220ACC1BC4}
+	EndGlobalSection
+EndGlobal
